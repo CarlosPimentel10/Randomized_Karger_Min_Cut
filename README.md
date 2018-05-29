@@ -1,5 +1,9 @@
 # Randomized Karger Min Cut
 
+##### By: Traci Lim
+
+---
+
 This repository contains an implementation **Karger’s Randomised Minimum Cut** algorithm in JAVA. 
 
 Input: java RMinCut v1 v2 v3 v4 ... 

@@ -1,3 +1,5 @@
+// By: Traci Lim
+
 class RMinCut {
 	
 	static int numvertices_old; // Stores number of vertices of uncut graph
