@@ -1,7 +1,3 @@
-/* Candidate Number: 91755
- * Programme: MSc in Applicable Mathematics
- * MA421 Coursework Submission for Question 1 
- */
 class RMinCut {
 	
 	static int numvertices_old; // Stores number of vertices of uncut graph
